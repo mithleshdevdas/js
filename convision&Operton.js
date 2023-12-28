@@ -27,3 +27,4 @@ console.log(typeof boolanToNum);
 let str = "jhb"
 let strToboolan = Boolean(str)
 console.log(strToboolan);
+
