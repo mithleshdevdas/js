@@ -1,5 +1,5 @@
 // Primitive data type
-
+// just wiw
 // 7 type od primitive data type
 /*
 1.  string = " ", double qute, ' ' single code, ` ` backtick me likh skte hai
