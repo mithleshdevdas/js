@@ -12,3 +12,5 @@ console.log(posFixcounter);
 let prefixcouter = 20;
 ++prefixcouter
 console.log(prefixcouter);
+
+
