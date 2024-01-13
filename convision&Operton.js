@@ -28,3 +28,5 @@ let str = "jhb"
 let strToboolan = Boolean(str)
 console.log(strToboolan);
 
+// 
+
