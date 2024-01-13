@@ -73,5 +73,7 @@ const myFunction= function() {
 console.log(myFunction());
 console.log(typeof myFunction);
 
+// 
+
 
 
