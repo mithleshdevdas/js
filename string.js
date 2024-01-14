@@ -22,3 +22,4 @@ console.log(nam.repeat(8));
 console.log(nam.replace('MithLesh', 'mk'));
 console.log(nam.blink());
 // 
+// 
